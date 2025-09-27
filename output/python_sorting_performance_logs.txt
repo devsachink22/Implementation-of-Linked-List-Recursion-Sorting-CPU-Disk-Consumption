@@ -1,0 +1,3 @@
+timestamp,algorithm,execution_time,initial_disk_bytes,final_disk_bytes,disk_usage_change,initial_cpu,final_cpu,cpu_usage_change
+2025-09-27 06:09:41,Bubble Sort,0.016835451126098633,0,0,0,4.1,14.7,10.6
+2025-09-27 06:09:41,Insertion Sort,0.0048792362213134766,0,0,0,8.6,10.8,2.200000000000001
